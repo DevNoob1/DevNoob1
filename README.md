@@ -8,7 +8,7 @@
 
 * 🔭 I’m currently working on improving my front-end art
 - 💬 Ask me about **HTML, CSS, Js, C++, DSA, TailwindCss and Python**
-* 🤝 I’m looking to collaborate on fornt-end projects
+* 🤝 I’m looking to collaborate on *front-end projects*
 * 🤔 I’m looking for help with back-end development
 
 
