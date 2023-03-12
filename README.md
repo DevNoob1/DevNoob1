@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Frontend, frameworks etc.**
 
-* 🔭 I’m currently working on improving knowledge on web-development and problem solving.
+* 🔭 I’m currently working on a code-editor web platform.
 - 💬 Ask me about **HTML, CSS, Js, C++, DSA, TailwindCss and Python**
 * 🤝 I’m looking to collaborate on *front-end projects*
 * 🤔 I’m looking for help with back-end development
