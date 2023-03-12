@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm AYUSH KUMAR RAI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="center">
-  <img src="https://pbs.twimg.com/media/FhT32ZxUAAA7s-u?format=png&name=900x900"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4081/4081669.png"/>
 </p>
 
 - 🌱 I’m currently learning **Frontend, frameworks etc.**
