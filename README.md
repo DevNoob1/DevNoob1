@@ -1,24 +1,20 @@
 <h1 align="center">Hi , I'm AYUSH KUMAR RAI</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> perseverant learner</h3>
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/4081/4081669.png"/>
 </p>
 
 - 🌱 I’m currently learning **Frontend, frameworks etc.**
 
-* 🔭 I’m currently working on improving my front-end art
+* 🔭 I’m currently working on improving knowledge on web-development and problem solving.
 - 💬 Ask me about **HTML, CSS, Js, C++, DSA, TailwindCss and Python**
 * 🤝 I’m looking to collaborate on *front-end projects*
 * 🤔 I’m looking for help with back-end development
 
-
-* ❤️ I love to play video games and swimming.
-
-
+* ❤️ I love to exercise.
 
 - 📫 How to reach me **ayushkr.r1@gmail.com**
 
-- ⚡ Fun fact **i am vey funny even at wrong times.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
