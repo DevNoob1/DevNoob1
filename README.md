@@ -1,13 +1,13 @@
 <h1 align="center">Hi , I'm AYUSH KUMAR RAI</h1>
-<h3 align="center"> perseverant learner</h3>
+<h2 align="center"> Keep Learning</h2>
 <p align="center">
-  <img  src="https://img.wattpad.com/e3a2a6f59bdef4a96b8ac95d3554e12636300804/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f654c6d6b31616f454458654a75413d3d2d3532363833333437362e313530643330316364386132623363313438363539373436303939312e676966"/>
+  <img  src="https://custom-doodle.com/wp-content/uploads/doodle/rick-and-morty-rick-sanchez-burp/rick-and-morty-rick-sanchez-burp-doodle.gif"/>
 </p>
 
 - 🌱 I’m currently learning **Frontend, frameworks, advanced python etc.**
 
 * 🔭 I’m currently working on a code-editor web platform.
-- 💬 Ask me about **HTML, CSS, Js, C++, DSA, TailwindCss and Python**
+- 💬 Ask me about **HTML, CSS, Js, C++, DSA, TailwindCss, React and Python**
 * 🤝 I’m looking to collaborate on *front-end projects*
 * 🤔 I’m looking for help with back-end development
 
