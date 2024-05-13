@@ -4,7 +4,7 @@
 
 ###
 ![](https://github-contributor-stats.vercel.app/api?username=DevNoob1&limit=3&theme=nord&combine_all_yearly_contributions=true)
- <img align="right" height="220px"  src="https://miro.medium.com/v2/resize:fit:679/1*ubCR6WyFNthQVQ9D4AIO9g.gif"  />
+ <img align="right" height="220px" width="300px" src="https://miro.medium.com/v2/resize:fit:679/1*ubCR6WyFNthQVQ9D4AIO9g.gif"  />
 
 # 🌾 Welcome to My GitHub Farm! 🖥️
 
